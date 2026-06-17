@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there
 
-<!--
-**WErenJaeger/WErenJaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst & ML Engineer — backend pipelines, data analytics, and applied machine learning.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Languages: Java, Python, SQL (PostgreSQL)
+Cloud & Backend: AWS Lambda, Supabase, serverless architectures
+Frontend / Visualization: React, Recharts
+
+
+🔭 Currently Exploring
+
+
+End-to-end serverless ML data pipelines
+Data labeling / annotation workflows
+Productizing ML models and tools
+
+
+📌 Pinned Projects
+
+Check out the pinned repositories below for examples of my work.
